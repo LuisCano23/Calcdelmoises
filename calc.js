@@ -29,6 +29,8 @@ if (seguir == "s") {
     resultado = n1 / n2;
     console.log(resultado)
 }
+/*CALCULADORA DE MOISES
+COMENTARIO DE MODIFICACION*/
 
 
 
